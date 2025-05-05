@@ -40,10 +40,13 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 4.creates nodes for input and output to generate the timing diagram. </br>
 5.for different input combinations generates the timing diagram </br>
 **PROGRAM**
+
+```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 Developed by:MADESWARAN M
 RegisterNumber:212223040106
 */
+```
 ```
 module exp7 (
     input J,
